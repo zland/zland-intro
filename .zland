@@ -1,0 +1,11 @@
+{
+  "name": "Introduction",
+  "resolveAlias": "intro",
+  "author": "Florian Biewald",
+  "routes": [
+    {
+      "path": "intro",
+      "handler": "components/IntroductionWindow"
+    }
+  ]
+}
